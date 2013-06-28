@@ -1,4 +1,4 @@
-package practicabanco;
+package ejemplobanco;
 
 public class TipoOperacion {
     String descripcion;

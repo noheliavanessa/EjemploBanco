@@ -87,9 +87,4 @@ public class CuentaBancaria {
         return "CuentaBancaria{" + "fechaApertura=" + fechaApertura + ", idCuentaBancaria=" + idCuentaBancaria + ", numeroCuenta=" + numeroCuenta + ", saldoCuenta=" + saldoCuenta + ", operaciones=" + operaciones + ", cliente=" + cliente + ", tipoCuenta=" + tipoCuenta + '}';
     }
 
-    private static class TipoCuenta {
-
-        public TipoCuenta() {
-        }
-    }
 }
